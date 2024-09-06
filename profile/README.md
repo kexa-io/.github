@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://kexa.io/">
+    <img src="images/kexa-banniere-git.png"  alt="Kexa Alerting & Monitoring" />
+  </a>
+</p>
 
 <h1 align="center" style="border-bottom: none">
     Open Source Alerting & Monitoring
