@@ -13,6 +13,6 @@
 
 <div align="center">
   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/4urcloud/Kexa?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/4urcloud/Kexa)
   
 </div>
