@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kexa.io/">
-    <img src="kexa-banniere-git.png"  alt="Kexa Alerting & Monitoring" />
+    <img src="/kexa-banniere-git.png"  alt="Kexa Alerting & Monitoring" />
   </a>
 </p>
 
