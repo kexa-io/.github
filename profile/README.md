@@ -16,6 +16,8 @@
 </div>
 
 
-<h2 align="center" style="border-bottom: none">
-    Easy to deploy & customize, extensible, low costs and community oriented 
-</h2>
+<h6 align="center" style="border-bottom: none">
+  
+    *Easy to deploy & customize, extensible, low costs and community oriented* 
+
+</h6>
