@@ -10,3 +10,9 @@
 <h2 align="center" style="border-bottom: none">
     Easy to deploy & customize, extensible, low costs and community oriented 
 </h2>
+
+<div align="center">
+  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/4urcloud/Kexa?style=social)
+  
+</div>
