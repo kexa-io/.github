@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center" style="border-bottom: none">
     Open Source Alerting & Monitoring
