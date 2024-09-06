@@ -4,5 +4,5 @@
     Open Source Alerting & Monitoring
 </h1>
 <h2 align="center" style="border-bottom: none">
-    Easy to customize & deploy, extensible, low costs and community oriented 
+    Easy to deploy & customize, extensible, low costs and community oriented 
 </h2>
