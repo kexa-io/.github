@@ -17,5 +17,5 @@
 
 
 <h6 align="center" style="border-bottom: none">
-    _Easy to deploy & customize, extensible, low costs and community oriented_ 
+    Easy to deploy & customize, extensible, low costs and community oriented
 </h6>
